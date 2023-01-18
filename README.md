@@ -1,0 +1,1 @@
+calculator app, used react js, concepts of props .. etc
